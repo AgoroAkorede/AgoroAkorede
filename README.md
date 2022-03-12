@@ -16,7 +16,10 @@ I love to take on new challenges and work on creative projects, and I also love 
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="html" width="50" height="50">
 </div>
     
-### SOCIALS
+###
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AgoroAkorede&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AgoroAKorede&exclude_repo=github-readme-stats,AgoroAkorede.github.io)](https://github.com/AgoroAkorede/github-readme-stats)
    
 
 
