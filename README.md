@@ -1,7 +1,7 @@
 ###     Hi there 👋,
    I am Agoro Akorede I am a Front-End developer and a student of the department of Chemical Engineering of the prestigious Obafemi Awolowo University. 
 I love to take on new challenges and work on creative projects, and I also love binging sitcoms
-   🌱 I’m currently learning Typescript and Material UI
+   🌱 I’m currently learning React Native 
     
  
 <!-- ![WaveHandGIF](https://user-images.githubusercontent.com/90475212/158036872-ae85d24a-20c7-4e8f-be60-b043142df236.gif) -->
