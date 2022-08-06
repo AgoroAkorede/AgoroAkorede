@@ -8,15 +8,15 @@ I love to take on new challenges and work on creative projects, and I also love 
 
 ### SKILLS
 <div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html" width="50" height="50">
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css" width="50" height="50">
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50">
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="html" width="50" height="50">
-<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="html" width="50" height="50">
-<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="html" width="50" height="50">
-<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="html" width="50" height="50">
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="html" width="50" height="50">
-<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" alt="html" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html" width="30" height="30">
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css" width="30" height="30">
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30">
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="html" width="30" height="30">
+<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="html" width="30" height="30">
+<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="html" width="30" height="30">
+<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="html" width="30" height="30">
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="html" width="30" height="30">
+<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" alt="html" width="30" height="30">
 </div>
     
 ###
