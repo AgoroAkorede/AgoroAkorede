@@ -15,6 +15,8 @@ I love to take on new challenges and work on creative projects, and I also love 
 <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="html" width="50" height="50">
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="html" width="50" height="50">
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="html" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="html" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" alt="html" width="50" height="50">
 </div>
     
 ###
