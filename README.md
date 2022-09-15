@@ -20,10 +20,9 @@ I love to take on new challenges and work on creative projects, and I also love 
 </div>
     
 ###
-![Anurag's GitHub stats]https://github.com/anuraghazra/github-readme-stats/api?username=AgoroAkorede&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AgoroAKorede&exclude_repo=github-readme-stats,AgoroAkorede.github.io)](https://github.com/AgoroAkorede/github-readme-stats)
-   
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AgoroAkorede&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
