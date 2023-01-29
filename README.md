@@ -1,5 +1,6 @@
 ###     Hi there 👋, I am Agoro Akorede
 ## About Me 
+<hr></hr>
    <p> I am a Software Engineer with Interest in building Web Applications and also currently learning more about Software Development and Engineering.</p>
     <p> 👨‍🎓 student of the department of Chemical Engineering of the prestigious Obafemi Awolowo University. </p>
      <p>🌱 I’m currently learning WebGL</p>
