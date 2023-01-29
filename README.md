@@ -1,6 +1,6 @@
 ###     Hi there 👋,
    I am Agoro Akorede I am a Front-End developer and a student of the department of Chemical Engineering of the prestigious Obafemi Awolowo University. 
-I love to take on new challenges and work on creative projects, and I also love binging sitcoms
+I love to take on new challenges and work on creative projects, and I also love binging sitcoms.
    🌱 I’m currently learning React Native 
     
  
@@ -16,7 +16,10 @@ I love to take on new challenges and work on creative projects, and I also love 
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="html" width="30" height="30">
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="html" width="30" height="30">
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="html" width="30" height="30">
-<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" alt="html" width="30" height="30">
+<img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original-wordmark.svg" alt="html" width="50" height="50">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="html" width="50" height="50">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="html" width="50" height="50">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" alt="html" width="50" height="50" color="white" fill="white">
 </div>
     
 ###
