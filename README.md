@@ -12,7 +12,7 @@
  
 <!-- ![WaveHandGIF](https://user-images.githubusercontent.com/90475212/158036872-ae85d24a-20c7-4e8f-be60-b043142df236.gif) -->
 
-### <link href="https://github.com/AgoroAkorede#-tech-stack">TECH STACK</link>
+### <link href="https://github.com/AgoroAkorede#-tech-stack">Languages and Skills</link>
 <hr></hr>
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html" width="30" height="30">
